@@ -1,0 +1,7 @@
+patch:
+  schema_list:
+    # preset
+    - {schema: luna_pinyin_simp}
+    # wubi
+    - {schema: wubi}
+    - {schema: pinyin}
